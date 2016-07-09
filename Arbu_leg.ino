@@ -84,7 +84,7 @@ void AutoMode()
 void Middle()
 {
 
-      Servoangle234567(90,90,90,90,90,95);   
+      Servoangle234567(90,85,80,100,95,90);   
       delay(200);
          
 }
